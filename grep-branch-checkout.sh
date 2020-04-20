@@ -1,5 +1,4 @@
 alias egit:checkout="gitEnhancedCheckout"
-
 function gitEnhancedCheckout()
 {
     #Find branch based on input string
